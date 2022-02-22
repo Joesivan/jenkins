@@ -72,6 +72,9 @@ THE SOFTWARE.
   <properties>
       <sonar.organization>joesivan</sonar.organization>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
+  
+  <properties>
       <revision>2.329</revision>
       <changelist>-SNAPSHOT</changelist>
 
