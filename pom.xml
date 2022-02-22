@@ -69,9 +69,9 @@ THE SOFTWARE.
     <url>https://issues.jenkins.io/browse/JENKINS/component/15593</url>
   </issueManagement>
   
-<properties>
-  <sonar.organization>joesivan</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <properties>
+    <sonar.organization>joesivan</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <revision>2.329</revision>
     <changelist>-SNAPSHOT</changelist>
 
